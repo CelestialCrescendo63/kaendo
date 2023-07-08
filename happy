@@ -1,0 +1,2 @@
+str1 ="happiness"
+str2 =f"I have {str1}"    # I have happiness
